@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Soft abstract illustration of a folded towel and a sprig">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9d2bd"/><stop offset="1" stop-color="#8a9a82"/></linearGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="720" cy="140" r="90" fill="#fffaf0" opacity="0.5"/>
+  <rect x="230" y="470" width="440" height="70" rx="22" fill="#faf6ee"/>
+  <rect x="250" y="410" width="400" height="70" rx="22" fill="#f1e8d6"/>
+  <rect x="270" y="350" width="360" height="70" rx="22" fill="#faf6ee"/>
+  <g stroke="#3b2a20" stroke-opacity="0.18" stroke-width="3"><path d="M270 385h360M250 445h400M230 505h440"/></g>
+  <path d="M450 350c0-60 10-100 40-140" stroke="#5f7058" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <g fill="#5f7058"><ellipse cx="478" cy="258" rx="14" ry="34" transform="rotate(30 478 258)"/><ellipse cx="440" cy="290" rx="13" ry="30" transform="rotate(-35 440 290)"/><ellipse cx="496" cy="215" rx="11" ry="26" transform="rotate(35 496 215)"/></g>
+</svg>

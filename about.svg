@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-label="Soft abstract illustration of candle light and leaves">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e9ddc6"/><stop offset="1" stop-color="#b9c4ae"/></linearGradient>
+    <radialGradient id="flame" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#fff3cf"/><stop offset="1" stop-color="#fff3cf" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="900" height="700" fill="url(#bg)"/>
+  <circle cx="470" cy="300" r="170" fill="url(#flame)"/>
+  <rect x="430" y="360" width="80" height="170" rx="14" fill="#f7efde"/>
+  <path d="M470 270c24 28 24 56 0 78-24-22-24-50 0-78z" fill="#e8b96a"/>
+  <g fill="#6f8168" opacity="0.8">
+    <path d="M150 600c-10-130 30-230 110-300-30 120-30 210-110 300z"/>
+    <path d="M230 620c40-110 120-170 220-190-80 50-120 120-220 190z"/>
+    <path d="M760 610c20-120-10-210-80-290 10 110 0 190 80 290z"/>
+    <path d="M690 630c-30-100-100-160-190-180 70 40 110 110 190 180z"/>
+  </g>
+  <rect y="560" width="900" height="140" fill="#cdbfa8" opacity="0.55"/>
+</svg>

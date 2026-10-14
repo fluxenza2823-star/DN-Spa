@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Soft illustration of balanced stones and a sage leaf">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4ecdc"/><stop offset="0.55" stop-color="#e6d8bd"/><stop offset="1" stop-color="#c9d1bf"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.3" cy="0.2" r="0.7">
+      <stop offset="0" stop-color="#fffaf0" stop-opacity="0.95"/><stop offset="1" stop-color="#fffaf0" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="s1" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b8a99a"/><stop offset="1" stop-color="#8f7f70"/></linearGradient>
+    <linearGradient id="s2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d6c8b4"/><stop offset="1" stop-color="#b3a28d"/></linearGradient>
+    <linearGradient id="s3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8a9a82"/><stop offset="1" stop-color="#667860"/></linearGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#bg)"/>
+  <rect width="800" height="1000" fill="url(#glow)"/>
+  <circle cx="610" cy="230" r="120" fill="#fffaf0" opacity="0.55"/>
+  <g opacity="0.55" fill="#8a9a82">
+    <path d="M120 760c30-120 20-220-30-330 70 70 90 190 30 330z"/>
+    <path d="M170 780c10-110 60-190 130-250-50 80-60 170-130 250z"/>
+  </g>
+  <ellipse cx="400" cy="860" rx="260" ry="26" fill="#3b2a20" opacity="0.12"/>
+  <ellipse cx="400" cy="815" rx="190" ry="52" fill="url(#s1)"/>
+  <ellipse cx="410" cy="725" rx="140" ry="42" fill="url(#s2)"/>
+  <ellipse cx="398" cy="652" rx="98" ry="34" fill="url(#s3)"/>
+  <ellipse cx="404" cy="598" rx="60" ry="24" fill="url(#s2)"/>
+  <path d="M400 330c70 60 100 140 0 250-100-110-70-190 0-250z" fill="#8a9a82" opacity="0.9"/>
+  <path d="M400 372c0 60 0 120 0 200" stroke="#eadfc8" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>
